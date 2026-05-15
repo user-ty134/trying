@@ -1,0 +1,6 @@
+{
+  "name": "NexLearn AI",
+  "description": "An interactive AI-powered learning environment for mastering modern web technologies with a built-in mentor and real-time guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Tutoring", "Interactive Lessons", "Code Analysis", "Learning Paths"]
+}
